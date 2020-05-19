@@ -12,8 +12,7 @@ Lorem Ipsim
 
 ## Decision
 
-The change that we're proposing or have agreed to implement.
-
+Tekst tekst tekst
 ## Consequences
 
 What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
